@@ -27,4 +27,4 @@ while(1):
         data = [nb_sign, current_time]
         append_list_as_row(FILE, data)
         old_nb_sign = nb_sign
-    time.sleep(1)
+    time.sleep(120)
